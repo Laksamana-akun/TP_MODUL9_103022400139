@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gUVVNstTTj0=",
+  "dgSpecHash": "CNTjNUQF3G4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Zephyrus\\source\\repos\\TP_MODUL9_103022400139\\TP_MODUL9_103022400139\\TP_MODUL9_103022400139.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Zephyrus\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
